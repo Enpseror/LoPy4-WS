@@ -22,6 +22,7 @@ while True:
     print('Measurement nr :' + str(value))
     print('Temp:', result.temperature)
     print('RH:', result.humidity)
+    
     #Adds +1 for each loop.
     value += 1
 
